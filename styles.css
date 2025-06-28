@@ -1,0 +1,14 @@
+body {                                       
+    background-color: rgb(247, 166, 90);
+    color: rgb(221, 1, 241);
+}
+p{
+    color: blue;
+}
+.classe{  
+    font-style: italic;
+    background-color: red;
+    background-attachment: local;
+    margin: 25;
+    border: 0ch;
+}
